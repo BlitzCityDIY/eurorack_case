@@ -1,0 +1,29 @@
+<svg id="_0" data-name="0" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10235.71 6867.6">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #000;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 0.71px;
+      }
+    </style>
+  </defs>
+  <title>eurorackPanel</title>
+  <g id="LWPOLYLINE">
+    <path class="cls-1" d="M6055.69,282.19a360,360,0,0,1,9.75,215l-847.28,3208a360,360,0,0,1-348.06,268.07H-2725.7a360,360,0,0,1-339.93-241.49L-4137.46,657.31c-64.83-186,31.79-389.5,216.86-456.82L4525.24-2871.88c186.85-68,393.42,28.4,461.38,215.24Z" transform="translate(4157.98 2894.02)"/>
+  </g>
+  <g id="CIRCLE">
+    <path class="cls-1" d="M4400.39,3397.22a162,162,0,1,1,162,162,162,162,0,0,1-162-162Z" transform="translate(4157.98 2894.02)"/>
+  </g>
+  <g id="CIRCLE-2" data-name="CIRCLE">
+    <path class="cls-1" d="M-2799.61,3397.22a162,162,0,0,1,162-162,162,162,0,0,1,162,162,162,162,0,0,1-162,162,162,162,0,0,1-162-162Z" transform="translate(4157.98 2894.02)"/>
+  </g>
+  <g id="CIRCLE-3" data-name="CIRCLE">
+    <path class="cls-1" d="M-3553.78,1234a162,162,0,0,1,162-162,162,162,0,0,1,162,162,162,162,0,0,1-162,162,162,162,0,0,1-162-162Z" transform="translate(4157.98 2894.02)"/>
+  </g>
+  <g id="CIRCLE-4" data-name="CIRCLE">
+    <path class="cls-1" d="M4626.58-1741.82a162,162,0,0,1,162-162,162,162,0,0,1,162,162,162,162,0,0,1-162,162,162,162,0,0,1-162-162Z" transform="translate(4157.98 2894.02)"/>
+  </g>
+</svg>
